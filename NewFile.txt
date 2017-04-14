@@ -1,6 +1,4 @@
 Content
-<<<<<<< HEAD
 Different Content
-=======
 New code
->>>>>>> 735a21e58fd25498e4b63e57f4b5339a010c3229
+
